@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning mobile development</p>
+<p align="left">✨ Creating bugs since 2023</p>
 
 ###
 
