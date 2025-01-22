@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi there! I’m João Vitor from São Paulo, Brazil. I’m a passionate developer and technology enthusiast with a love for exploring new tools and creating innovative solutions.</p>
+<p align="left">Hi! I’m João Vitor, a Brazilian developer. I’m a technology enthusiast, with an interest in improving my skills and expanding my knowledge in the field.</p>
 
 ###
 
