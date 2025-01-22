@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023</p>
+<p align="left">Building solutions and solving problems since 2023.</p>
 
 ###
 
