@@ -32,18 +32,6 @@
 
 ###
 
-<h2 align="left">I also have experience with</h2>
-
-###
-
-<div align="left">
-  <img src="https://avatars.githubusercontent.com/u/37317873?s=200&v=4" height="40" alt="pipedream logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-</div>
-
-###
-
 <h2 align="left">How to reach me</h2>
 
 ###
