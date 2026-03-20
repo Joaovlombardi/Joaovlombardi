@@ -25,8 +25,8 @@
 ###
 
 <p align="left">
-  🎯 Front-End Development  
-  🌐 Modern Web Interfaces  
+  🎯 Front-End Development<br>
+  🌐 Modern Web Interfaces<br>  
   ⚛️ React.js Ecosystem
 </p>
 
