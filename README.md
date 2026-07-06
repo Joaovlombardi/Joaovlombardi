@@ -1,64 +1,59 @@
-<h1 align="left">Hey 👋 Welcome!</h1>
+<h1 align="center">João Vitor</h1>
 
-###
-
-<p align="left">
-  Hi! I’m <strong>João Vitor</strong>, a Brazilian developer passionate about building clean, responsive and user-focused interfaces.
+<p align="center">
+  Front-End Developer focused on building modern, scalable and high-performance web applications.
 </p>
 
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">
-  🚀 Front-End developer focused on creating modern, intuitive and scalable web and mobile experiences.<br>
-  💡 Building solutions and solving problems since 2023.<br>
-  📚 Constantly learning and improving my skills in the Front-End ecosystem.
+<p align="center">
+  Software Engineering Student • Brazil
 </p>
 
-###
+---
 
-<h2 align="left">Main focus</h2>
+## About Me
 
-###
+I'm a Front-End Developer passionate about creating clean, responsive and user-friendly interfaces.
 
-<p align="left">
-  🎯 Front-End Development<br>
-  🌐 Modern Web Interfaces<br>  
-  ⚛️ React.js Ecosystem
+I enjoy turning ideas into real products while continuously improving my skills and learning new technologies.
+
+Currently focused on the React ecosystem and modern web development.
+
+---
+
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs" />
 </p>
 
-###
+---
 
-<h2 align="left">I code with</h2>
+## Currently Learning
 
-###
+- Software Architecture
+- Backend Development
+- Performance & Best Practices
+- Clean Code
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-</div>
+---
 
-###
+## GitHub Stats
 
-<h2 align="left">How to reach me</h2>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Joaovlombardi&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaovlombardi&layout=compact&theme=github_dark&hide_border=true" />
+</p>
 
-###
+---
 
-<div align="left">
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
+## Connect with me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/joaovitorlh">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:seuemail@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail" />
+  &nbsp;
+  <a href="mailto:SEU_EMAIL">
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-</div>
+</p>
